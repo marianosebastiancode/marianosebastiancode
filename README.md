@@ -1,7 +1,11 @@
 # Hola, soy Mariano.
 ## En este momento estoy en el Bootcamp full-stack Javascript de Undefined Academy!!
 
-# Comandos mas usados en mi terminal
+
+
+
+## Comandos mas usados en mi terminal
+
 
 | Comando   | Descripcion | Ejemplo de uso |
 |-----------|--------|----------------|
@@ -13,7 +17,7 @@
 | **mkdir** | *Crea un nuevo directorio* | mkdir ArabicMusic |
 
 
-# Ademas... 2 Alias que uso con frecuancia en Ubuntu
+## Ademas... 2 de los Alias que uso con frecuencia en Ubuntu son:
 
  ```bash
  alias up='sudo apt-get update && sudo apt-get upgrade -y'
